@@ -1,15 +1,25 @@
-# Sergey Boyko (Boiko in official documents)
+# Sergey Boyko
 
 **Researcher in AI evaluation and verification · background in fraud and security investigations**
 Almaty, Kazakhstan · Fellow, [Ronin Institute for Independent Scholarship 2.0](https://ronininstitute.org/scholars/) (independent affiliation) · [ORCID](https://orcid.org/0009-0009-2178-5701) · [LinkedIn](https://linkedin.com/in/sergey-boyko-researcher)
 
-For 20+ years I investigated fraud and prepared evidence for legal decisions: police investigator, then security and anti-fraud lead in finance and fintech (Director of Internal and Economic Security at Solva Group, seven legal entities, until September 2026). I now apply the same discipline to AI-generated results and scientific claims: test them against independent evidence, controls and counterexamples, and state where the result stops holding.
+For 20+ years I investigated fraud and prepared evidence for legal decisions: police investigator, then security and anti-fraud lead in finance and fintech (Director of Internal and Economic Security at a financial holding, seven legal entities, until September 2026). I now apply the same discipline to AI-generated results and scientific claims: test them against independent evidence, controls and counterexamples, and state where the result stops holding.
 
 ## Research
 
 - **AIAS+ 2026:** the paper *Kill Before You Commit: A Falsification-First Loop for AI-Assisted Scientific Discovery* is accepted for a poster presentation (5–7 November 2026). It remains under second-round review for the conference proceedings and is not yet accepted for publication.
 - **Method:** falsification first. A separate AI agent tries to break an initial analysis; verified findings are kept apart from inferences and open claims.
 - **Own result downgraded after self-audit.** [ARCHCODE](https://github.com/sergeeey/ARCHCODE) reported a pooled AUC of 0.977 on 353 ClinVar HBB variants. The audit in its README shows that the figure follows variant-category composition: with a position-only control the AUC is 0.551, and the median within-category AUC across 25 category-locus combinations is 0.52, both close to chance. The caveat is at the top of that README, next to the number.
+
+## Testing my own methods
+
+I build research-process methods (a falsification ladder, estimand-first gates, an evidence ledger) and ask one question of each: does it produce knowledge that a plain baseline would not? I test that with pre-registered claims, blind graders and negative controls, and file the outcome, rejections included, in [Claude-cod-top-2026/experiments](https://github.com/sergeeey/Claude-cod-top-2026/tree/main/experiments).
+
+- **Full falsification protocol vs standard analysis** (blind-graded pilot, n=2 cases). The pre-registered claim "the protocol wins by at least 3 points" was rejected: the standard analysis scored higher on both cases (by 4 and 2 points).
+- **Explicit 8-class hypothesis taxonomy vs baseline** (n=1). Claim rejected: both versions produced the target hypothesis. The grader passed its own negative control.
+- **Two configuration-effectiveness experiments** were blocked by an infrastructure limit (a subprocess cannot authenticate). They are archived with the blocker documented, not reported as results.
+
+These are small pilots about process, not benchmarks. [Y-17](https://github.com/sergeeey/Y-17-100-gipotez) applies the same methods to a list of about 141 open problems.
 
 ## Projects
 
