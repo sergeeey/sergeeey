@@ -32,7 +32,7 @@ The same tools are not only for science. The habit is the same on any task: stat
 
 - **AIAS+ 2026:** the paper *Kill Before You Commit: A Falsification-First Loop for AI-Assisted Scientific Discovery* is accepted for a poster presentation (5–7 November 2026). It remains under second-round review for the conference proceedings and is not yet accepted for publication.
 - **Method:** falsification first. A separate AI agent tries to break an initial analysis; verified findings are kept apart from inferences and open claims.
-- **Own result downgraded after self-audit.** [ARCHCODE](https://github.com/sergeeey/ARCHCODE) reported a pooled AUC of 0.977 on 353 ClinVar HBB variants. The audit in its README shows that the figure follows variant-category composition: with a position-only control the AUC is 0.551, and the median within-category AUC across 25 category-locus combinations is 0.52, both close to chance. The caveat is at the top of that README, next to the number.
+- **Own result downgraded after self-audit.** [ARCHCODE](https://github.com/sergeeey/ARCHCODE) reported a pooled AUC of 0.977 on the HBB locus (1,103 ClinVar variants in its locus table: 353 pathogenic, 750 benign). The audit in its README shows that the figure follows variant-category composition: with a position-only control the AUC is 0.551, and the median within-category AUC across 25 category-locus combinations is 0.52, both close to chance. The caveat is at the top of that README, next to the number.
 
 ## Testing my own methods
 
