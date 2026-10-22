@@ -47,4 +47,12 @@ Computational genomics (ARCHCODE, chromatin loop extrusion for regulatory varian
 
 Python 3.11+ · pytest · GitHub Actions · Semgrep rules · CVE analysis (NVD) · reproducible experiment design with controls · LLM and AI-agent workflows.
 
+## How I work, and what I am looking for
+
+I run many small experiments. Each one has a stated claim, a control and a recorded verdict, and many end in a rejection.
+
+A working view of mine, not a result: a domain expert who uses AI professionally and a newcomer who uses AI from a blank page approach a field differently. The expert knows which routes are closed. The newcomer does not, and sometimes walks a route the field dropped for no current reason. Most such routes fail for good reasons, so I bring each one with its controls, and the expert's time goes to the verdict rather than to guessing. I think the pair works better than either alone.
+
+I work without a lab. I am looking to join a research group working on problems that can benefit people, where my tools and unusual routes get checked by domain experts. My tools fit best around AI evaluation and verification, scientific data integrity and AI safety. Remote collaboration is fine.
+
 Open to research collaboration and roles in AI evaluation, AI safety and fraud/abuse investigations.
