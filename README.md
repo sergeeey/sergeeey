@@ -5,6 +5,14 @@ Almaty, Kazakhstan · Fellow, [Ronin Institute for Independent Scholarship 2.0](
 
 For 20+ years I investigated fraud and prepared evidence for legal decisions: police investigator, then security and anti-fraud lead in finance and fintech (Director of Internal and Economic Security at a financial holding, seven legal entities, until September 2026). I now apply the same discipline to AI-generated results and scientific claims: test them against independent evidence, controls and counterexamples, and state where the result stops holding.
 
+## How I got here
+
+I started in August 2023 as an ordinary AI user. A personal task needed a large archive of messages analysed; it did not fit into a model's context window, so I had to learn to build a vector database. That led me into programming, and then to the idea that the same tools could be used for science.
+
+Three years later, self-taught, I am a Fellow of the Ronin Institute (since April 2026). A paper of mine is accepted as a poster at AIAS+ 2026. I was acknowledged for independent methodological review in a 2026 research manuscript. One of my projects reached the final three in a startup selection run in the quasi-government sector.
+
+My long-term aim is a scientific discovery that helps people. Building research methods, and testing which of them actually produce new knowledge, is how I work towards it.
+
 ## Research
 
 - **AIAS+ 2026:** the paper *Kill Before You Commit: A Falsification-First Loop for AI-Assisted Scientific Discovery* is accepted for a poster presentation (5–7 November 2026). It remains under second-round review for the conference proceedings and is not yet accepted for publication.
