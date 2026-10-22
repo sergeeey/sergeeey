@@ -17,6 +17,17 @@ Three years later, self-taught, I am a Fellow of the Ronin Institute (since Apri
 
 My long-term aim is a scientific discovery that helps people. Building research methods, and testing which of them actually produce new knowledge, is how I work towards it.
 
+## Beyond research
+
+The same tools are not only for science. The habit is the same on any task: state the claim, add a control, check the result. I use it on personal and family matters, on household decisions, and on automating routine workflows, from simple scripts to full processes. At work I used it to automate fraud-audit checks and to digitise a security database together with the workflows around it. The aim is that a person can do this for their own tasks, without a laboratory.
+
+## Security background
+
+- Set up and supervised the information-security direction in a quasi-government organisation, including a data-loss-prevention system, and sat on its information-security committee. Certificate in economic and information security.
+- Built group-wide security procedures, staff vetting and investigation processes at a financial holding (seven legal entities).
+- Went through many audits and inspections, and worked complex cases under pressure.
+- My knowledge of information security is enough to build and run a programme and to work with specialists. I am a security manager, not a hands-on security engineer.
+
 ## Research
 
 - **AIAS+ 2026:** the paper *Kill Before You Commit: A Falsification-First Loop for AI-Assisted Scientific Discovery* is accepted for a poster presentation (5–7 November 2026). It remains under second-round review for the conference proceedings and is not yet accepted for publication.
