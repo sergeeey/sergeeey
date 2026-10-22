@@ -3,7 +3,11 @@
 <img src="assets/photo.jpg" alt="Sergey Boyko" width="150" align="right">
 
 **Researcher in AI evaluation and verification · background in fraud and security investigations**
-Almaty, Kazakhstan · Fellow, [Ronin Institute for Independent Scholarship 2.0](https://ronininstitute.org/scholars/) (independent affiliation) · [ORCID](https://orcid.org/0009-0009-2178-5701) · [LinkedIn](https://linkedin.com/in/sergey-boyko-researcher)
+Almaty, Kazakhstan · Fellow, [Ronin Institute for Independent Scholarship 2.0](https://ronininstitute.org/scholars/) (independent affiliation)
+
+**Quick links:** [LinkedIn](https://www.linkedin.com/in/sergey-boyko-researcher/) · [GitHub](https://github.com/sergeeey) · [ORCID](https://orcid.org/0009-0009-2178-5701) · [AIAS+ 2026](https://www.aiasplus.org/)
+
+*AIAS+ is the official conference site; my poster is accepted, while publication in the proceedings remains under review.*
 
 For 20+ years I investigated fraud and prepared evidence for legal decisions: police investigator, then security and anti-fraud lead in finance and fintech (Director of Internal and Economic Security at a financial holding, seven legal entities, until September 2026). I now apply the same discipline to AI-generated results and scientific claims: test them against independent evidence, controls and counterexamples, and state where the result stops holding.
 
