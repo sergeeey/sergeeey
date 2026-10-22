@@ -1,6 +1,6 @@
-<img src="assets/photo.jpg" alt="Sergey Boyko" width="150" align="right">
-
 # Sergey Boyko
+
+<img src="assets/photo.jpg" alt="Sergey Boyko" width="150" align="right">
 
 **Researcher in AI evaluation and verification · background in fraud and security investigations**
 Almaty, Kazakhstan · Fellow, [Ronin Institute for Independent Scholarship 2.0](https://ronininstitute.org/scholars/) (independent affiliation) · [ORCID](https://orcid.org/0009-0009-2178-5701) · [LinkedIn](https://linkedin.com/in/sergey-boyko-researcher)
