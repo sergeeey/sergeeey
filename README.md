@@ -1,9 +1,13 @@
+<img src="assets/photo.jpg" alt="Sergey Boyko" width="150" align="right">
+
 # Sergey Boyko
 
 **Researcher in AI evaluation and verification · background in fraud and security investigations**
 Almaty, Kazakhstan · Fellow, [Ronin Institute for Independent Scholarship 2.0](https://ronininstitute.org/scholars/) (independent affiliation) · [ORCID](https://orcid.org/0009-0009-2178-5701) · [LinkedIn](https://linkedin.com/in/sergey-boyko-researcher)
 
 For 20+ years I investigated fraud and prepared evidence for legal decisions: police investigator, then security and anti-fraud lead in finance and fintech (Director of Internal and Economic Security at a financial holding, seven legal entities, until September 2026). I now apply the same discipline to AI-generated results and scientific claims: test them against independent evidence, controls and counterexamples, and state where the result stops holding.
+
+**Where to check this:** the Ronin Fellows page lists me; the ORCID record is linked above; commit history and decision files are in the repositories below. The AIAS+ acceptance notification and the correspondence about the startup selection can be shown on request.
 
 ## How I got here
 
